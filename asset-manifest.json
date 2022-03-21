@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Migmma/static/css/main.e3bd3a6e.chunk.css",
-    "main.js": "/Migmma/static/js/main.e4596b4b.chunk.js",
-    "main.js.map": "/Migmma/static/js/main.e4596b4b.chunk.js.map",
+    "main.js": "/Migmma/static/js/main.b0a1e21f.chunk.js",
+    "main.js.map": "/Migmma/static/js/main.b0a1e21f.chunk.js.map",
     "runtime-main.js": "/Migmma/static/js/runtime-main.b30afc89.js",
     "runtime-main.js.map": "/Migmma/static/js/runtime-main.b30afc89.js.map",
     "static/js/2.2d7edeed.chunk.js": "/Migmma/static/js/2.2d7edeed.chunk.js",
     "static/js/2.2d7edeed.chunk.js.map": "/Migmma/static/js/2.2d7edeed.chunk.js.map",
     "index.html": "/Migmma/index.html",
-    "precache-manifest.d050c0e1b615c66a7f744beaaeda9808.js": "/Migmma/precache-manifest.d050c0e1b615c66a7f744beaaeda9808.js",
+    "precache-manifest.191e942d213e080dd83eb9eb36dd9a2f.js": "/Migmma/precache-manifest.191e942d213e080dd83eb9eb36dd9a2f.js",
     "service-worker.js": "/Migmma/service-worker.js",
     "static/css/main.e3bd3a6e.chunk.css.map": "/Migmma/static/css/main.e3bd3a6e.chunk.css.map",
     "static/js/2.2d7edeed.chunk.js.LICENSE.txt": "/Migmma/static/js/2.2d7edeed.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b30afc89.js",
     "static/js/2.2d7edeed.chunk.js",
     "static/css/main.e3bd3a6e.chunk.css",
-    "static/js/main.e4596b4b.chunk.js"
+    "static/js/main.b0a1e21f.chunk.js"
   ]
 }
